@@ -116,7 +116,7 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
     </ul>
 </details>
 <details>
-    <summary>Chukwuoma Chizoba</summary>
+    <summary>Precious Nwaigbo</summary>
     <ul>
     <li><a href="https://www.github.com/Tactical98">Github</a></li>
     <li><a href="https://www.twitter.com/Tactical_MR_P">Twitter</a></li>
